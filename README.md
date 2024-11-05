@@ -1,16 +1,27 @@
-## Hi there 👋
+# 👋 Hi, I'm Nitin Baghel!
 
-<!--
-**officialnitinbaghel/officialnitinbaghel** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a passionate developer skilled in web development and AI. I enjoy creating full-stack applications and exploring new technologies to solve real-world problems.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🛠 Tech Stack
+- **Languages:** HTML, CSS, JavaScript, C++
+- **Frameworks:** Node.js, Express, React, Bootstrap
+- **Databases:** MongoDB
+- **Other Tools:** WebRTC, AI/ML
+
+---
+
+### 📈 GitHub Stats
+![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=officialnitinbaghel&show_icons=true&theme=radical)
+
+### 🔥 Streak Stats
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=officialnitinbaghel&theme=radical)
+
+---
+
+### 📫 How to Reach Me
+- **Email:** [offcialnitinbaghel1@gmail.com](mailto:offcialnitinbaghel1@gmail.com)
+- **LinkedIn:** [https://www.linkedin.com/in/nitin-baghel01](https://www.linkedin.com/in/nitin-baghel01)
+
+---
